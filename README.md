@@ -1,5 +1,4 @@
 ## Hi, I'm Paul 🐔
-Computer Science student at Daystar University.<br>
 😎 I'm a passionate front-end developer who loves crafting beautiful, responsive, and performant web experiences.<br> 
 🤖 With a keen eye for design and a strong focus on user experience, I specialize in building modern web applications that not only look great but also provide seamless interactions<br>
 🧠 Currently expanding my skillset to become a full-stack developer by diving deeper into backend technologies. I believe in writing clean, maintainable code and staying up-to-date with the latest web development trends and best practices.<br>
